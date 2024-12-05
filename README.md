@@ -13,3 +13,4 @@ Our group project will simulate an ecosystem in which a neighboring village will
 
 https://testinghosting-yyoz.onrender.com
 
+To run the game, make sure all requirements are downloaded, and run the main.py file and the Perlin.py file in separate terminals.
